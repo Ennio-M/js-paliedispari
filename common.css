@@ -14,10 +14,10 @@ a{
 input{
     text-align: center;
 }
-input, #enter{
+input, button{
     margin: 1em;
 }
-#enter, #reset{
+button, #reset{
     font-size: .7em;
     padding: .7em;
     border-radius: 10px;
